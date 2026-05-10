@@ -4,6 +4,16 @@
   box-sizing: border-box;
 }
 
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: blue;
+}
+
+
 body {
   font-family: Arial, sans-serif;
   background: #f8fafc;
@@ -116,7 +126,7 @@ nav ul li a.active {
 .btn {
   display: inline-block;
   background: blue;
-  color: #0ea5e9;
+  color: white;
   text-decoration: none;
   padding: 12px 24px;
   border-radius: 6px;
