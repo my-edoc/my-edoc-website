@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function () {
         `My message: ${data.message}`;
 
       const whatsappURL =
-        `https://wa.me/34600000000?text=${encodeURIComponent(whatsappMessage)}`;
+        `https://wa.me/34613946227?text=${encodeURIComponent(whatsappMessage)}`;
 
       // Optional: open WhatsApp after submission
       setTimeout(() => {
